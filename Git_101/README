@@ -1,4 +1,4 @@
-Repository: CEE600M0002_Fall2020/Git_101
+cd ~Repository: CEE600M0002_Fall2020/Git_101
 Created on: 9/13/2020
 Author: Elizabeth Carter
 Author contact: ekcarter@syr.edu
@@ -24,4 +24,5 @@ Eligible for Certification	No
 2) weather_trend.py
 Python script to calculate trend in TAVG (average daily temperature).
 
-TO DO: calculate linear trend in TMAX (maximum daily temperature).
+TO DO: calculate linear trend in TMAX (maximum daily temperature)
+
